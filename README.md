@@ -12,7 +12,7 @@ If this repository contribute to your research, please consider citing it:
 ```
 @misc{pikkunac2025,
   author = {Esteban Gómez},
-  title  = {PikkuNAC},
+  title  = {PikkuNAC: A lightweight neural audio codec},
   year   = 2025,
   url    = {https://github.com/eagomez2/pikku-nac}
 }
