@@ -7,7 +7,7 @@ The structure of this repository is as follows:
 - `example.py`: Example script demonstrating how to instantiate and use the model, and the description of the values it outputs.
 
 # Cite
-If this repository contribute to your research, please consider citing it:
+If this repository contributes to your research, please consider citing it:
 
 ```
 @misc{pikkunac2025,
